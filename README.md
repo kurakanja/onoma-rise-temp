@@ -1,3 +1,4 @@
+暫存中    
 <p align="center">
   <img src="https://github.com/MocuAcqu/onoma-rise/blob/main/src/assets/images/main-logo.png" alt="OnomaRise" width="40%">
 </p>
